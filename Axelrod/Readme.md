@@ -1,0 +1,1 @@
+Axelrod's Tournament is a variation of the iterated prisoners' dilemma where agents are randomly paired up with each other and act according to a set stretegy, i.e. always cooperate, always defect, cooperate then repeat the other agent's action, etc.
